@@ -1,0 +1,17 @@
+ALPHA -> Vazquez, Ezequiel Omar
+BETHA -> Montilla, Vicente
+GAMMA -> Sopelana, Marcos 
+
+A- ¿Qué color de fondo tiene su página en el TESTING ?
+B- ¿Qué color de fondo tiene su página en el DESARROLLO ?
+C- ¿Qué color de fondo tiene su página en el MASTER?
+D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
+
+
+A- En TESTING el color de fondo es blue.
+
+B- En DESARROLLO el color de fondo es yellow.
+
+C- En DESARROLLO el color de fondo es yellow.
+
+D- En el master quedò el favicon de ALPHA.
