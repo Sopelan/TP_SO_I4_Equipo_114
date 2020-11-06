@@ -15,3 +15,19 @@ B- En DESARROLLO el color de fondo es yellow.
 C- En DESARROLLO el color de fondo es yellow.
 
 D- En el master quedò el favicon de ALPHA.
+
+
+E- ¿Algún integrante tuvo problemas al hacer el push?
+F- ¿Qué problemas surgieron?
+G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
+adoptada?
+H- ¿Qué sucede si cada uno utiliza el push -f?
+I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
+en DESARROLLO ?
+
+E_ Betha y Gamma 
+F_ Beta y gamma debieron de hacer pull a los cambios hechos por alpha, de lo contrario no pueden pushear el commit.
+G_ Hacer pull, borrar cambios y agregar cambios propios(eliminando trabajo escrito por otro miembro del grupo). Hacer push -f generar un pull-request y asi no modificar los cambios de otro.
+H_ Se pushea forzado y se abre un pull request
+I_ Merge de testing a desarrollo
+
